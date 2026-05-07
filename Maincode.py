@@ -10,7 +10,7 @@ import zipfile
 import threading
 
 st.set_page_config(page_title="Lay Plan Optimizer V7", layout="wide")
-st.title("✂️ Lay Plan Optimizer V7.0 (Live Timer & ZIP Export)")
+st.title("✂️ Lay Plan Optimizer ")
 
 # --- 1. MANUAL ORDER INPUT ---
 st.subheader("1. Manual Order Entry")
