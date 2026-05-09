@@ -9,7 +9,7 @@ import io
 import zipfile
 
 st.set_page_config(page_title="Lay Plan Optimizer V8", layout="wide")
-st.title("✂️ Lay Plan Optimizer V8.0 (Auto-Sequential LOT Engine)")
+st.title("✂️ Lay Plan Optimizer")
 
 # --- 1. MANUAL ORDER INPUT ---
 st.subheader("1. Manual Order Entry")
